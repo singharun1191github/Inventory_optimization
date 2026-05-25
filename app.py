@@ -446,8 +446,7 @@ if uploaded_file:
             'Recommended_PO_Qty',
             'PO_Action',
             'PO_Alert',
-            'PO_Trigger_Date',
-            'Critical_Segment'
+            'PO_Trigger_Date'
         ]])
 
         # --------------------------------------------------
@@ -469,8 +468,7 @@ if uploaded_file:
             'Additional_PO_Required',
             'PO_Sufficiency_Status',
             'PO_Action',
-            'PO_Alert',
-            'Critical_Segment'
+            'PO_Alert'
         ]])
 
         # --------------------------------------------------
